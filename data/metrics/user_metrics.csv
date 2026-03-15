@@ -1,0 +1,201 @@
+total_repos,total_stars_received,total_forks_received,avg_stars_per_repo,account_age_days,repos_per_year,followers,following,follower_ratio,h_index,impact_score,primary_languages,primary_language_1,language_diversity,industries_served,primary_industry,has_license_pct,total_open_issues,days_since_last_push,is_active,login,name
+88,720,188,8.181818181818182,1058,30.359168241965975,1197,0,1197.0,11,2293,"['CSS', 'JavaScript', 'HTML']",CSS,4,2,J,1.0,6,130.0,False,mabelolivera10,MABEL QUISPE OLIVERA
+35,5514,1239,157.54285714285714,4225,3.0236686390532546,1178,1,1178.0,3,9170,"[nan, 'Java', 'JavaScript']",,10,3,J,1.0,67,1.0,True,devaige,Aige
+72,3868,595,53.72222222222222,4875,5.390769230769231,1110,2,555.0,9,6168,"[nan, 'Pascal', 'C++']",,19,8,J,1.0,24,2.0,True,mriscoc,Miguel Risco-Castillo
+56,494,167,8.821428571428571,2697,7.578791249536522,674,0,674.0,11,1502,"['Python', 'JavaScript', nan]",Python,7,5,J,1.0,24,-1.0,True,apholdings,SoloPython
+531,2390,330,4.500941619585688,5380,36.02509293680297,657,1150,0.571304347826087,11,3707,"[nan, 'Ruby', 'Python']",,29,14,J,1.0,123,0.0,True,joelibaceta,Joel Ibaceta
+150,496,265,3.3066666666666666,1453,37.68066070199587,614,1,614.0,10,1640,"['C#', 'JavaScript', 'HTML']",C#,11,11,J,1.0,4,247.0,False,CodigoEstudiante,Codigo Estudiante
+68,80,9,1.1764705882352942,3389,7.323694305104751,555,1338,0.4147982062780269,3,653,"['Dart', 'Go', nan]",Dart,11,6,J,1.0,30,270.0,False,goandreus,Andres Chavez
+0,0,0,0.0,3708,0.0,555,67,8.283582089552239,0,555,[],,0,0,,0.0,0,,False,csaybar,Cesar Aybar
+0,0,0,0.0,5758,0.0,506,761,0.6649145860709592,0,506,[],,0,0,,0.0,0,,False,emedinaa,Eduardo José Medina Alfaro
+0,0,0,0.0,2208,0.0,503,0,503.0,0,503,[],,0,0,,0.0,0,,False,dcajasn,Riskfolio
+0,0,0,0.0,2147,0.0,439,0,439.0,0,439,[],,0,0,,0.0,0,,False,Franklin369,codigo369.com
+0,0,0,0.0,3486,0.0,423,9716,0.043536434746809384,0,423,[],,0,0,,0.0,0,,False,carlosal1015,Oromion
+0,0,0,0.0,1475,0.0,354,343,1.032069970845481,0,354,[],,0,0,,0.0,0,,False,BracoZS,BracoZS
+0,0,0,0.0,1669,0.0,352,424,0.8301886792452831,0,352,[],,0,0,,0.0,0,,False,gustarting,Gustavo Mamani
+0,0,0,0.0,983,0.0,350,319,1.09717868338558,0,350,[],,0,0,,0.0,0,,False,marco-soria,Marco Antonio
+0,0,0,0.0,618,0.0,345,452,0.7632743362831859,0,345,[],,0,0,,0.0,0,,False,gianbdev,Giancarlo Silva
+0,0,0,0.0,5395,0.0,336,1180,0.2847457627118644,0,336,[],,0,0,,0.0,0,,False,luismayta,Lucho Mayta
+0,0,0,0.0,2032,0.0,319,244,1.3073770491803278,0,319,[],,0,0,,0.0,0,,False,JkDevArg,JkDev
+0,0,0,0.0,1037,0.0,312,1027,0.3037974683544304,0,312,[],,0,0,,0.0,0,,False,jorgemunozl,Jorge Munoz Lar
+0,0,0,0.0,4826,0.0,310,0,310.0,0,310,[],,0,0,,0.0,0,,False,gcoronelc,Eric Gustavo Coronel Castillo
+0,0,0,0.0,3533,0.0,296,8,37.0,0,296,[],,0,0,,0.0,0,,False,Anders87x,AnderCode
+0,0,0,0.0,4167,0.0,262,87,3.0114942528735633,0,262,[],,0,0,,0.0,0,,False,ivandevp,Ivan Medina
+0,0,0,0.0,1909,0.0,261,0,261.0,0,261,[],,0,0,,0.0,0,,False,Rimac-Seguros,Rimac Seguros
+0,0,0,0.0,3416,0.0,257,464,0.5538793103448276,0,257,[],,0,0,,0.0,0,,False,ambarja,Antony Barja 
+0,0,0,0.0,2475,0.0,240,42,5.714285714285714,0,240,[],,0,0,,0.0,0,,False,Railly,Railly Hugo
+0,0,0,0.0,3994,0.0,218,605,0.3603305785123967,0,218,[],,0,0,,0.0,0,,False,brian-emarquez,Brian Marquez Inca Roca
+0,0,0,0.0,1571,0.0,207,0,207.0,0,207,[],,0,0,,0.0,0,,False,yaperos,Banco de Credito del Peru
+0,0,0,0.0,6203,0.0,207,33,6.2727272727272725,0,207,[],,0,0,,0.0,0,,False,marsam,Mario Rodas
+0,0,0,0.0,4715,0.0,200,75,2.6666666666666665,0,200,[],,0,0,,0.0,0,,False,KattyaCuevas,Kattya Cuevas
+0,0,0,0.0,1878,0.0,176,7,25.142857142857142,0,176,[],,0,0,,0.0,0,,False,alexmarinmendez,Alex Marin Mendez
+0,0,0,0.0,5960,0.0,173,2,86.5,0,173,[],,0,0,,0.0,0,,False,avelasquezn,Angel Velasquez
+0,0,0,0.0,4809,0.0,172,46,3.739130434782609,0,172,[],,0,0,,0.0,0,,False,WelsTheory,Wels Theory
+0,0,0,0.0,5691,0.0,167,37,4.513513513513513,0,167,[],,0,0,,0.0,0,,False,jmcastagnetto,Jesus M. Castagnetto
+0,0,0,0.0,795,0.0,162,1145,0.14148471615720523,0,162,[],,0,0,,0.0,0,,False,wajahat-ali-mir-dev,Wajahat Ali Mir
+0,0,0,0.0,2580,0.0,159,63,2.5238095238095237,0,159,[],,0,0,,0.0,0,,False,marcelo-earth,Marcelo
+0,0,0,0.0,4706,0.0,155,38,4.078947368421052,0,155,[],,0,0,,0.0,0,,False,bjrmatos,BJR Matos
+0,0,0,0.0,4891,0.0,154,314,0.49044585987261147,0,154,[],,0,0,,0.0,0,,False,jansanchez,Jan Sanchez
+0,0,0,0.0,4029,0.0,143,492,0.29065040650406504,0,143,[],,0,0,,0.0,0,,False,santiagourdaneta,Santiago Urdaneta
+0,0,0,0.0,5444,0.0,139,497,0.2796780684104628,0,139,[],,0,0,,0.0,0,,False,mario21ic,Mario IC
+0,0,0,0.0,1957,0.0,137,133,1.0300751879699248,0,137,[],,0,0,,0.0,0,,False,JuanAlva,Juan Esteban Alva Mejía
+0,0,0,0.0,2201,0.0,125,2,62.5,0,125,[],,0,0,,0.0,0,,False,JoseMascaros,Jose Mascaro
+0,0,0,0.0,1944,0.0,121,29,4.172413793103448,0,121,[],,0,0,,0.0,0,,False,ljporras,Janet Porras
+0,0,0,0.0,1603,0.0,119,0,119.0,0,119,[],,0,0,,0.0,0,,False,DataEngineering-LATAM,Data Engineering Latam
+0,0,0,0.0,4940,0.0,117,24,4.875,0,117,[],,0,0,,0.0,0,,False,jesulink2514,Jesus Angulo
+0,0,0,0.0,4856,0.0,113,13,8.692307692307692,0,113,[],,0,0,,0.0,0,,False,erickorlando,Erick Orlando ©
+0,0,0,0.0,1183,0.0,111,0,111.0,0,111,[],,0,0,,0.0,0,,False,crafter-station,Crafter Station
+0,0,0,0.0,652,0.0,111,144,0.7708333333333334,0,111,[],,0,0,,0.0,0,,False,geraldmoreno993,Gerald Moreno Morales
+0,0,0,0.0,3013,0.0,109,3,36.333333333333336,0,109,[],,0,0,,0.0,0,,False,CodigoCristo,Codigo Cristo 
+0,0,0,0.0,5585,0.0,107,24,4.458333333333333,0,107,[],,0,0,,0.0,0,,False,giancorzo,Giancarlo Corzo
+0,0,0,0.0,853,0.0,106,180,0.5888888888888889,0,106,[],,0,0,,0.0,0,,False,aghersidev,Andres Ghersi
+0,0,0,0.0,1785,0.0,106,0,106.0,0,106,[],,0,0,,0.0,0,,False,GorkyFlorez,Gorky
+0,0,0,0.0,4417,0.0,105,148,0.7094594594594594,0,105,[],,0,0,,0.0,0,,False,ghondar,Anthony Bryan Gavilan Vinces
+0,0,0,0.0,5223,0.0,104,88,1.1818181818181819,0,104,[],,0,0,,0.0,0,,False,lavaldi,Claudia Valdivieso
+0,0,0,0.0,3645,0.0,102,91,1.120879120879121,0,102,[],,0,0,,0.0,0,,False,rogergcc,Roger Colquehuanca
+0,0,0,0.0,3405,0.0,99,10,9.9,0,99,[],,0,0,,0.0,0,,False,diegotc86,Diego Torres
+0,0,0,0.0,5860,0.0,99,7,14.142857142857142,0,99,[],,0,0,,0.0,0,,False,merunga,Mariano Crowe
+0,0,0,0.0,5959,0.0,99,13,7.615384615384615,0,99,[],,0,0,,0.0,0,,False,raymi-sm,Raymi Saldomando
+0,0,0,0.0,4927,0.0,98,592,0.16554054054054054,0,98,[],,0,0,,0.0,0,,False,romelgomez,Romel Gomez
+0,0,0,0.0,3200,0.0,96,59,1.6271186440677967,0,96,[],,0,0,,0.0,0,,False,MistyBlunch,Grace Nikole
+0,0,0,0.0,2374,0.0,94,208,0.4519230769230769,0,94,[],,0,0,,0.0,0,,False,jhony-v,Jhony Vega
+0,0,0,0.0,1592,0.0,94,482,0.1950207468879668,0,94,[],,0,0,,0.0,0,,False,gustavojoaquin,Gustavo Joaquin
+0,0,0,0.0,4582,0.0,93,5,18.6,0,93,[],,0,0,,0.0,0,,False,Dedal0,Camilo Galdos AkA Dedalo
+0,0,0,0.0,2178,0.0,93,0,93.0,0,93,[],,0,0,,0.0,0,,False,gflores1092,Yera Flores
+0,0,0,0.0,4223,0.0,92,32,2.875,0,92,[],,0,0,,0.0,0,,False,lalogf,Lalo Gonzalez
+0,0,0,0.0,3339,0.0,92,43,2.13953488372093,0,92,[],,0,0,,0.0,0,,False,Hydroenvironment,Julio Isaac Montenegro Gambini
+0,0,0,0.0,1813,0.0,91,207,0.4396135265700483,0,91,[],,0,0,,0.0,0,,False,storres20,Italo Lon kan
+0,0,0,0.0,2396,0.0,91,0,91.0,0,91,[],,0,0,,0.0,0,,False,PCPUNMSM,Python Club for Physicists - UNMSM
+0,0,0,0.0,1240,0.0,91,294,0.30952380952380953,0,91,[],,0,0,,0.0,0,,False,CarlosIgreda,Carlos Jesús Igreda Rivas
+0,0,0,0.0,2303,0.0,87,0,87.0,0,87,[],,0,0,,0.0,0,,False,Jeyderht,Jeyderht
+0,0,0,0.0,943,0.0,86,82,1.048780487804878,0,86,[],,0,0,,0.0,0,,False,JosephLlacchua,Joseph Llacchua
+0,0,0,0.0,3452,0.0,86,59,1.4576271186440677,0,86,[],,0,0,,0.0,0,,False,marvinjoel,
+0,0,0,0.0,3196,0.0,86,138,0.6231884057971014,0,86,[],,0,0,,0.0,0,,False,rubenpazch,Ruben Paz Chuspe
+0,0,0,0.0,1674,0.0,85,101,0.8415841584158416,0,85,[],,0,0,,0.0,0,,False,Jose-pe,Jose L. Corazao
+0,0,0,0.0,6532,0.0,83,211,0.3933649289099526,0,83,[],,0,0,,0.0,0,,False,adagio,Edu F
+0,0,0,0.0,5100,0.0,83,114,0.7280701754385965,0,83,[],,0,0,,0.0,0,,False,edutrul,Eduardo Telaya
+0,0,0,0.0,2407,0.0,81,61,1.3278688524590163,0,81,[],,0,0,,0.0,0,,False,sheylaPozo,Sʜᴇʏʟᴀ Pᴏᴢᴏ
+0,0,0,0.0,2348,0.0,81,0,81.0,0,81,[],,0,0,,0.0,0,,False,john-caballero,John Caballero Terrazos
+0,0,0,0.0,2110,0.0,79,41,1.9268292682926829,0,79,[],,0,0,,0.0,0,,False,SanAndr3,Nelson Andrea
+0,0,0,0.0,6431,0.0,79,17,4.647058823529412,0,79,[],,0,0,,0.0,0,,False,xenda,Xenda
+0,0,0,0.0,5399,0.0,79,42,1.880952380952381,0,79,[],,0,0,,0.0,0,,False,RogerNatividad,Roger Natividad
+0,0,0,0.0,4107,0.0,78,27,2.888888888888889,0,78,[],,0,0,,0.0,0,,False,rafaesc,Rafael Escala
+0,0,0,0.0,5197,0.0,77,111,0.6936936936936937,0,77,[],,0,0,,0.0,0,,False,ArturoDeza,Arturo
+0,0,0,0.0,691,0.0,77,70,1.1,0,77,[],,0,0,,0.0,0,,False,no6data,Elvis
+0,0,0,0.0,5548,0.0,76,36,2.111111111111111,0,76,[],,0,0,,0.0,0,,False,juaneladio,Juan Eladio Sanchez Rosas
+0,0,0,0.0,6547,0.0,73,2,36.5,0,73,[],,0,0,,0.0,0,,False,gnrfan,Antonio Ognio
+0,0,0,0.0,5408,0.0,72,224,0.32142857142857145,0,72,[],,0,0,,0.0,0,,False,robintux,Abraham Zamudio Chauca
+0,0,0,0.0,3185,0.0,72,262,0.2748091603053435,0,72,[],,0,0,,0.0,0,,False,GeomarPerales,Geomar Perales Apaico
+0,0,0,0.0,1948,0.0,72,40,1.8,0,72,[],,0,0,,0.0,0,,False,lgcarlinf,luiggy carlin
+0,0,0,0.0,4581,0.0,71,2,35.5,0,71,[],,0,0,,0.0,0,,False,Open-Sec,Open Sec
+0,0,0,0.0,4680,0.0,69,108,0.6388888888888888,0,69,[],,0,0,,0.0,0,,False,olanaso,Erick Simón Escalante Olano
+0,0,0,0.0,943,0.0,68,0,68.0,0,68,[],,0,0,,0.0,0,,False,CS2031-DBP,
+0,0,0,0.0,6040,0.0,67,5,13.4,0,67,[],,0,0,,0.0,0,,False,CoreyKaylor,Corey Kaylor
+0,0,0,0.0,3507,0.0,67,48,1.3958333333333333,0,67,[],,0,0,,0.0,0,,False,JoshDev1205,Josh Ospina Tafur
+0,0,0,0.0,4647,0.0,67,12,5.583333333333333,0,67,[],,0,0,,0.0,0,,False,ederivero,Eduardo de Rivero Manrique
+0,0,0,0.0,2439,0.0,66,11,6.0,0,66,[],,0,0,,0.0,0,,False,jamesrhurtado,James Hurtado
+0,0,0,0.0,2652,0.0,65,14,4.642857142857143,0,65,[],,0,0,,0.0,0,,False,yusshu,Andre Roldan
+0,0,0,0.0,3982,0.0,64,173,0.3699421965317919,0,64,[],,0,0,,0.0,0,,False,ernestcr,"Professor Ernesto C.R., George Washington University (www.gwu.edu)"
+0,0,0,0.0,2060,0.0,63,17,3.7058823529411766,0,63,[],,0,0,,0.0,0,,False,xavimondev,Xavier Alfaro
+0,0,0,0.0,5328,0.0,63,1,63.0,0,63,[],,0,0,,0.0,0,,False,jonathanchaveze,Jonathan Chavez
+0,0,0,0.0,2058,0.0,63,79,0.7974683544303798,0,63,[],,0,0,,0.0,0,,False,Grazen0,José Daniel Grayson
+0,0,0,0.0,3138,0.0,62,18,3.4444444444444446,0,62,[],,0,0,,0.0,0,,False,carlosgub,Carlos Ugaz
+0,0,0,0.0,640,0.0,62,4,15.5,0,62,[],,0,0,,0.0,0,,False,JulianB0315,Julian Burga Bracamonte
+0,0,0,0.0,3202,0.0,62,68,0.9117647058823529,0,62,[],,0,0,,0.0,0,,False,defunkydrummer,defunkydrummer
+0,0,0,0.0,1752,0.0,62,82,0.7560975609756098,0,62,[],,0,0,,0.0,0,,False,bralegz,Bryan Alegria
+0,0,0,0.0,3240,0.0,62,27,2.2962962962962963,0,62,[],,0,0,,0.0,0,,False,pablodz,Pablo
+0,0,0,0.0,4811,0.0,60,27,2.2222222222222223,0,60,[],,0,0,,0.0,0,,False,edwinpgm,Edwin Gonzales
+0,0,0,0.0,1969,0.0,60,47,1.2765957446808511,0,60,[],,0,0,,0.0,0,,False,Dav082004,David Angel Contreras Palacios
+0,0,0,0.0,3847,0.0,60,1,60.0,0,60,[],,0,0,,0.0,0,,False,neunapp,Neunapp
+0,0,0,0.0,1467,0.0,59,12,4.916666666666667,0,59,[],,0,0,,0.0,0,,False,KatashiFukushima,Katashi Fukushima 
+0,0,0,0.0,2089,0.0,59,0,59.0,0,59,[],,0,0,,0.0,0,,False,juliocesardw,
+0,0,0,0.0,3931,0.0,58,57,1.0175438596491229,0,58,[],,0,0,,0.0,0,,False,OVarLaz,Olenka Vargas Lazarte
+0,0,0,0.0,1626,0.0,58,68,0.8529411764705882,0,58,[],,0,0,,0.0,0,,False,KenyiGM,
+0,0,0,0.0,5904,0.0,58,153,0.3790849673202614,0,58,[],,0,0,,0.0,0,,False,raul782,Raul Rodriguez
+0,0,0,0.0,3591,0.0,58,24,2.4166666666666665,0,58,[],,0,0,,0.0,0,,False,ManuelLoaizaV,Manuel Loaiza Vasquez
+0,0,0,0.0,5177,0.0,58,168,0.34523809523809523,0,58,[],,0,0,,0.0,0,,False,Oxicode,Christian Quispe H
+0,0,0,0.0,3601,0.0,57,11,5.181818181818182,0,57,[],,0,0,,0.0,0,,False,ytarazona,Yonatan Tarazona Coronel
+0,0,0,0.0,4486,0.0,57,1,57.0,0,57,[],,0,0,,0.0,0,,False,macespinoza,Miguel Cotrina
+0,0,0,0.0,4164,0.0,57,60,0.95,0,57,[],,0,0,,0.0,0,,False,juanpablocs,Juan pablo
+0,0,0,0.0,3253,0.0,56,0,56.0,0,56,[],,0,0,,0.0,0,,False,rrivas-utec,
+0,0,0,0.0,4167,0.0,56,78,0.717948717948718,0,56,[],,0,0,,0.0,0,,False,nelson6e65,Nelson Martell
+0,0,0,0.0,3491,0.0,56,23,2.4347826086956523,0,56,[],,0,0,,0.0,0,,False,heygonzalocaira,Gonzalo Caira
+0,0,0,0.0,3309,0.0,56,40,1.4,0,56,[],,0,0,,0.0,0,,False,RuthSalvador,Ruth Abigail Salvador Zorrilla
+0,0,0,0.0,4940,0.0,56,151,0.3708609271523179,0,56,[],,0,0,,0.0,0,,False,jchavezlavalle,Joana Chavez
+0,0,0,0.0,2222,0.0,56,65,0.8615384615384616,0,56,[],,0,0,,0.0,0,,False,Ryzeon,Alex Avila
+0,0,0,0.0,5086,0.0,55,0,55.0,0,55,[],,0,0,,0.0,0,,False,elbereth,Alexandre Devilliers
+0,0,0,0.0,900,0.0,54,0,54.0,0,54,[],,0,0,,0.0,0,,False,UTPcursos,UTP CURSOS
+0,0,0,0.0,4431,0.0,54,69,0.782608695652174,0,54,[],,0,0,,0.0,0,,False,CriscelyLP,Criscely Luján Paredes
+0,0,0,0.0,3580,0.0,53,48,1.1041666666666667,0,53,[],,0,0,,0.0,0,,False,JaimeVirrueta,Jaime D. Virrueta Fuentes
+0,0,0,0.0,4814,0.0,53,9,5.888888888888889,0,53,[],,0,0,,0.0,0,,False,lvaldivia,Luis
+0,0,0,0.0,2394,0.0,53,31,1.7096774193548387,0,53,[],,0,0,,0.0,0,,False,JoanBEnd,Joan Paredes
+0,0,0,0.0,3502,0.0,52,0,52.0,0,52,[],,0,0,,0.0,0,,False,Android-Dev-Peru,Android Dev Peru
+0,0,0,0.0,2360,0.0,52,40,1.3,0,52,[],,0,0,,0.0,0,,False,allisonvp,Allison Velarde Polar
+0,0,0,0.0,2744,0.0,52,20,2.6,0,52,[],,0,0,,0.0,0,,False,PaulGuillen,Paul Guillen Acuña
+0,0,0,0.0,3082,0.0,51,0,51.0,0,51,[],,0,0,,0.0,0,,False,franciscorosales-marticorena,Francisco Rosales Marticorena
+0,0,0,0.0,3527,0.0,51,232,0.21982758620689655,0,51,[],,0,0,,0.0,0,,False,donycisne,Dony Cisneros
+0,0,0,0.0,851,0.0,51,0,51.0,0,51,[],,0,0,,0.0,0,,False,geografope, GeógrafoPE| #Geocomputacion #CienciaDeDatosEspaciales
+0,0,0,0.0,4590,0.0,50,70,0.7142857142857143,0,50,[],,0,0,,0.0,0,,False,omarbenites,Omar Benites Alfaro
+0,0,0,0.0,5734,0.0,49,24,2.0416666666666665,0,49,[],,0,0,,0.0,0,,False,puentesarrin,Jorge Puente-Sarrín
+0,0,0,0.0,4294,0.0,49,15,3.2666666666666666,0,49,[],,0,0,,0.0,0,,False,ErickChacon,Dr. Erick A. Chacón Montalván
+0,0,0,0.0,4163,0.0,49,254,0.19291338582677164,0,49,[],,0,0,,0.0,0,,False,gcavanunez,Guillermo Cava
+0,0,0,0.0,1161,0.0,48,0,48.0,0,48,[],,0,0,,0.0,0,,False,kevins-projects,Kevin's projects
+0,0,0,0.0,5205,0.0,48,0,48.0,0,48,[],,0,0,,0.0,0,,False,kandra,Karen Da Cruz
+0,0,0,0.0,1362,0.0,47,8,5.875,0,47,[],,0,0,,0.0,0,,False,taldr27,Diego Garcia
+0,0,0,0.0,2657,0.0,47,13,3.6153846153846154,0,47,[],,0,0,,0.0,0,,False,hsztan,Henry Nawrocki Sztanski
+0,0,0,0.0,5288,0.0,47,15,3.1333333333333333,0,47,[],,0,0,,0.0,0,,False,atejada,Blag
+0,0,0,0.0,3486,0.0,47,17,2.764705882352941,0,47,[],,0,0,,0.0,0,,False,EDavidAQ,David Allende Quintana
+0,0,0,0.0,5112,0.0,47,131,0.35877862595419846,0,47,[],,0,0,,0.0,0,,False,javsan77,Javier Sanchez Ayte
+0,0,0,0.0,4358,0.0,46,6,7.666666666666667,0,46,[],,0,0,,0.0,0,,False,lcajachahua,Luis C
+0,0,0,0.0,3755,0.0,46,32,1.4375,0,46,[],,0,0,,0.0,0,,False,kennyhorna,Kenny Horna
+0,0,0,0.0,4264,0.0,46,3,15.333333333333334,0,46,[],,0,0,,0.0,0,,False,VScode,Victor Salazar
+0,0,0,0.0,2854,0.0,46,4,11.5,0,46,[],,0,0,,0.0,0,,False,xorb,Dany
+0,0,0,0.0,2154,0.0,46,91,0.5054945054945055,0,46,[],,0,0,,0.0,0,,False,Alejandro1709,Alejandro
+0,0,0,0.0,3466,0.0,45,5,9.0,0,45,[],,0,0,,0.0,0,,False,wilsonvargas,Wilson Vargas
+0,0,0,0.0,1619,0.0,45,27,1.6666666666666667,0,45,[],,0,0,,0.0,0,,False,JPachecoZ,Javier Pacheco
+0,0,0,0.0,2612,0.0,45,0,45.0,0,45,[],,0,0,,0.0,0,,False,healthinnovation,Health Innovation Laboratory - InnovaLab
+0,0,0,0.0,3853,0.0,45,8,5.625,0,45,[],,0,0,,0.0,0,,False,paucaro,Paula Asto
+0,0,0,0.0,1170,0.0,45,28,1.6071428571428572,0,45,[],,0,0,,0.0,0,,False,lordksix,Wladimir Pasquel
+0,0,0,0.0,4671,0.0,45,1,45.0,0,45,[],,0,0,,0.0,0,,False,jsatch,Hernan Quintana
+0,0,0,0.0,4372,0.0,44,183,0.24043715846994534,0,44,[],,0,0,,0.0,0,,False,kevinrodbe,Kevin Rodríguez
+0,0,0,0.0,6450,0.0,44,1,44.0,0,44,[],,0,0,,0.0,0,,False,jkelvie,John Kelvie
+0,0,0,0.0,2315,0.0,44,1,44.0,0,44,[],,0,0,,0.0,0,,False,karenciita,
+0,0,0,0.0,1491,0.0,44,20,2.2,0,44,[],,0,0,,0.0,0,,False,2003scott,Diego Scott
+0,0,0,0.0,3415,0.0,44,68,0.6470588235294118,0,44,[],,0,0,,0.0,0,,False,f1729,Luis
+0,0,0,0.0,2193,0.0,43,2,21.5,0,43,[],,0,0,,0.0,0,,False,maybemarhs,Maybemarhs
+0,0,0,0.0,4985,0.0,43,46,0.9347826086956522,0,43,[],,0,0,,0.0,0,,False,Aquima,RAUL QUISPE
+0,0,0,0.0,3286,0.0,43,73,0.589041095890411,0,43,[],,0,0,,0.0,0,,False,george124816,George Rodrigues
+0,0,0,0.0,2488,0.0,43,16,2.6875,0,43,[],,0,0,,0.0,0,,False,desdelinux,Luigys [Vauxoo]
+0,0,0,0.0,4806,0.0,42,0,42.0,0,42,[],,0,0,,0.0,0,,False,asullom,Angel Sullon
+0,0,0,0.0,4326,0.0,42,19,2.210526315789474,0,42,[],,0,0,,0.0,0,,False,DanielEdu,Daniel Eduardo Portugal Revilla
+0,0,0,0.0,4042,0.0,42,30,1.4,0,42,[],,0,0,,0.0,0,,False,claydergc,Clayder Gonzalez
+0,0,0,0.0,3042,0.0,42,62,0.6774193548387096,0,42,[],,0,0,,0.0,0,,False,edwinrhc,Edwin HC
+0,0,0,0.0,5231,0.0,42,0,42.0,0,42,[],,0,0,,0.0,0,,False,ccarruitero,César Carruitero
+0,0,0,0.0,4159,0.0,42,7,6.0,0,42,[],,0,0,,0.0,0,,False,hllauca,Harold Llauca
+0,0,0,0.0,5870,0.0,41,57,0.7192982456140351,0,41,[],,0,0,,0.0,0,,False,eporroa,Erik Porroa
+0,0,0,0.0,5008,0.0,41,4,10.25,0,41,[],,0,0,,0.0,0,,False,xzitlou,Lou Alcalá
+0,0,0,0.0,3035,0.0,41,70,0.5857142857142857,0,41,[],,0,0,,0.0,0,,False,felipechang,Felipe Chang
+0,0,0,0.0,4577,0.0,40,33,1.2121212121212122,0,40,[],,0,0,,0.0,0,,False,Cuica20,Javier Richard Cuicapuza Antonio
+0,0,0,0.0,4421,0.0,40,21,1.9047619047619047,0,40,[],,0,0,,0.0,0,,False,CristianLlanos,Cristian Llanos
+0,0,0,0.0,1194,0.0,40,0,40.0,0,40,[],,0,0,,0.0,0,,False,FooTalentGroup,Foo Talent Group
+0,0,0,0.0,3123,0.0,39,4,9.75,0,39,[],,0,0,,0.0,0,,False,hebertdev,hebert villafuerte
+0,0,0,0.0,2900,0.0,39,50,0.78,0,39,[],,0,0,,0.0,0,,False,JosueDurand96,Josué Durand Pebe
+0,0,0,0.0,2010,0.0,39,40,0.975,0,39,[],,0,0,,0.0,0,,False,piero-vic,Piero Lescano
+0,0,0,0.0,1938,0.0,39,18,2.1666666666666665,0,39,[],,0,0,,0.0,0,,False,damariis13,Damaris D.
+0,0,0,0.0,1244,0.0,39,403,0.0967741935483871,0,39,[],,0,0,,0.0,0,,False,Kevincarlosqa,Kevin Quispe Aquise
+0,0,0,0.0,3249,0.0,39,43,0.9069767441860465,0,39,[],,0,0,,0.0,0,,False,And0re,André Távara
+0,0,0,0.0,1826,0.0,39,39,1.0,0,39,[],,0,0,,0.0,0,,False,mysticBel,Maribel Maza
+0,0,0,0.0,5247,0.0,38,80,0.475,0,38,[],,0,0,,0.0,0,,False,dairdev,Dennis
+0,0,0,0.0,4330,0.0,38,0,38.0,0,38,[],,0,0,,0.0,0,,False,yuslinandev,<yuslinan.dev>
+0,0,0,0.0,2742,0.0,38,50,0.76,0,38,[],,0,0,,0.0,0,,False,shiarauzo,shiara arauzo
+0,0,0,0.0,2552,0.0,38,5,7.6,0,38,[],,0,0,,0.0,0,,False,Kelvin-Joel,Joel Ventura
+0,0,0,0.0,4367,0.0,38,0,38.0,0,38,[],,0,0,,0.0,0,,False,MAGALLANESJoseManuel,Jose Manuel MAGALLANES
+0,0,0,0.0,1784,0.0,37,41,0.9024390243902439,0,37,[],,0,0,,0.0,0,,False,javierayalar,Javier Ayala Rojas
+0,0,0,0.0,2627,0.0,37,89,0.4157303370786517,0,37,[],,0,0,,0.0,0,,False,jhonatanmacazana,Jhonatan Macazana
+0,0,0,0.0,4695,0.0,37,7,5.285714285714286,0,37,[],,0,0,,0.0,0,,False,zmandel,Zig Mandel
+0,0,0,0.0,2168,0.0,36,5,7.2,0,36,[],,0,0,,0.0,0,,False,tavolafourcade,Octavio Lafourcade
+0,0,0,0.0,4417,0.0,36,2,18.0,0,36,[],,0,0,,0.0,0,,False,mokuzaru,Kenny
+0,0,0,0.0,2467,0.0,36,38,0.9473684210526315,0,36,[],,0,0,,0.0,0,,False,NunezGabriel,Gabriel Nunez
+0,0,0,0.0,2430,0.0,36,1,36.0,0,36,[],,0,0,,0.0,0,,False,joaohenry23,Joao Huamán
+0,0,0,0.0,2940,0.0,36,38,0.9473684210526315,0,36,[],,0,0,,0.0,0,,False,sergiomauz,Sergio Zambrano
+0,0,0,0.0,1813,0.0,36,24,1.5,0,36,[],,0,0,,0.0,0,,False,alonsofalconi,Alonso Falconi
