@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 st.set_page_config(page_title="Developers", page_icon="👩‍💻", layout="wide")
-st.title("👩‍💻 Developer Explorer")
+st.title("Developer Explorer 👩‍💻")
 
 @st.cache_data
 def load_data():
@@ -37,8 +37,12 @@ try:
         use_container_width=True
     )
 
-    st.subheader("Impact Score Distribution")
-    fig = px.histogram(filtered, x="impact_score", nbins=30)
+    st.subheader("Top Developers by Impact Score")
+    top = filtered.nlargest(15, "impact_score")[["login", "impact_score", "followers", "total_stars_received"]]
+    fig = px.bar(top, x="login", y="impact_score", color="impact_score",
+                color_continuous_scale="Blues",
+                hover_data=["followers", "total_stars_received"])
+    fig.update_xaxes(tickangle=45)
     st.plotly_chart(fig, use_container_width=True)
 
 except FileNotFoundError:

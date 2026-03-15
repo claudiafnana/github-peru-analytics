@@ -30,5 +30,6 @@ A data analytics platform that extracts, processes, and visualizes information a
 3. Install dependencies: `pip install -r requirements.txt`
 4. Create `.env` file with your API keys (see `.env.example`)
 
-## Usage
-```bash
+## DEMO Video
+## Video Demo
+[Ver video en YouTube](https://youtu.be/jwynzvM-WZs)

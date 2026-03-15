@@ -45,7 +45,9 @@ try:
         st.subheader("Industry Distribution")
         industry_counts = classifications_df["industry_name"].value_counts().reset_index()
         industry_counts.columns = ["industry", "count"]
-        fig = px.pie(industry_counts, values="count", names="industry")
+        fig = px.bar(industry_counts, x="count", y="industry", orientation="h",
+                    color="count", color_continuous_scale="Blues")
+        fig.update_layout(yaxis={"categoryorder": "total ascending"})
         st.plotly_chart(fig, use_container_width=True)
 
     st.subheader("Top 10 Repositories by Stars")
